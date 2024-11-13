@@ -4,8 +4,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNINTER**. Tenh
 
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-magno-almeida-soares-4b6374295/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos.magno.soaresz/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Surez7771)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suarezzzs&show_icons=true&theme=dracula)
 
