@@ -1,6 +1,6 @@
 ### Olá! Eu sou Carlos Magno Soares 🖐️
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNINTER**. Tenho 19 anos e estou aprendendo **inglês** e **espanhol**. Faço cursos na **Udemy** e **Alura** para expandir minhas habilidades em tecnologia. Sou rápido para aprender e muito comunicativo.
+Sou estudante de Ciência da Computação na UNIGRANDE e de Análise e Desenvolvimento de Sistemas na UNINTER. Tenho 20 anos e estou aprendendo inglês na Wizard.
 
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-magno-almeida-soares-4b6374295/)
