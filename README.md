@@ -74,7 +74,7 @@
 ## 🌱 Em aprendizado contínuo
 
 Atualmente focado em:
-- Desenvolvimento web com HTML, CSS e JavaScript
+- Desenvolvimento web com LARAVEL, HTML, CSS e JavaScript
 - Aprimoramento em lógica de programação com Python e Java
 - Banco de dados com MySQL
 - Design gráfico e UI/UX com Photoshop e Figma
