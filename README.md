@@ -1,80 +1,67 @@
-<div align="center">
-  <h1>Carlos Magno Soares</h1>
-  <h3>Desenvolvedor Full-Stack em Formação | Entusiasta de UI/UX</h3>
-  
-  <p>
-    Estudante de <strong>Ciência da Computação</strong> e <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
-    Foco em criar soluções web eficientes, unindo a lógica do back-end (PHP/Laravel) com interfaces modernas.
-  </p>
+# Hello, I'm Carlos Magno! 👋
 
-  <p>
-    <a href="https://www.linkedin.com/in/carlos-magno-almeida-soares-4b6374295/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="mailto:seu-email@exemplo.com">
-      <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-  </p>
-</div>
+## 👨‍💻 Full Stack Developer | Tech Enthusiast
 
-<br>
+I am a **Systems Analysis and Development** student at Uninter University and passionate about turning complex problems into efficient software solutions.
 
-## 🚀 Sobre Mim
-
-Sou um profissional em constante evolução acadêmica e técnica. Atualmente, concilio duas graduações na área de tecnologia, buscando uma visão holística entre a teoria da computação e a prática do desenvolvimento de sistemas.
-
-* 🎓 **Acadêmico:** Ciência da Computação (UNIGRANDE) & ADS (UNINTER).
-* 🌍 **Idiomas:** Estudante ativo de Inglês (Wizard) com foco em comunicação técnica.
-* 🎯 **Objetivo:** Atuar como Desenvolvedor Full-Stack em projetos desafiadores.
+I have a solid background in technical support and administrative management, which gave me a broad view of the importance of technology in business daily life. Currently, my main focus is web development with **PHP (Laravel)** and **Node.js**.
 
 ---
 
-## 🛠️ Stack Tecnológica
+### 🚀 About Me
 
-### 💻 Core Development
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+- 🎓 Currently studying **Systems Analysis and Development** (Uninter) [Graduation: 2026].
+- telescope Currently looking for my first opportunity as a **Junior Developer**.
+- 🌱 Deeply studying: **Laravel 11 & 12**, **Node.js**, and **Docker**.
+- 💡 Previous experience with hardware support, public systems management, and graphic design.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Carlos-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Carlos-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Carlos-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
-### 🎨 Front-end & UI Design
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+**Databases & Tools:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Carlos-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Carlos-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Carlos-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Carlos-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Carlos-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
-### ⚙️ Ferramentas & Infra
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+**Design:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Carlos-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
 </div>
 
 ---
 
-## 📊 Atividade no GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=suarezzzs&show_icons=true&theme=gotham&count_private=true&hide_border=true" alt="Estatísticas do Carlos"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suarezzzs&layout=compact&langs_count=6&theme=gotham&hide_border=true" alt="Linguagens mais usadas"/>
+  <a href="https://github.com/suarezzZS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suarezzZS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suarezzZS&layout=compact&theme=dracula"/>
+  </a>
 </div>
 
 ---
 
-## 📚 Roadmap de Estudos
+### 📫 Contact
 
-Estou focado em aprofundar conhecimentos nas seguintes áreas para os próximos meses:
+Feel free to reach out to me for projects, collaborations, or networking.
 
-- **Back-end:** Arquitetura de APIs RESTful com Laravel.
-- **Lógica:** Estrutura de dados avançada utilizando Java e Python.
-- **Soft Skills:** Fluência em Inglês para colaboração internacional.
-
-<br>
-
-<div align="center">
-  <sub>© 2024 Carlos Magno Soares. Open for opportunities.</sub>
+<div> 
+  <a href="https://www.linkedin.com/in/carlosmagnosrz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:Carmaso_@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
