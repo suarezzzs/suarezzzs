@@ -48,17 +48,6 @@ I have a solid background in technical support and administrative management, wh
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/suarezzZS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suarezzZS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suarezzZS&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ### 📫 Contact
 
 Feel free to reach out to me for projects, collaborations, or networking.
