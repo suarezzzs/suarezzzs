@@ -1,58 +1,98 @@
-# Hello, I'm Carlos Magno! 👋
+<h1 align="center">Carlos Magno Almeida Soares</h1>
 
-## 👨‍💻 Full Stack Developer | Tech Enthusiast
+<p align="center">
+  <strong>Full Stack Developer</strong> &nbsp;|&nbsp; Java · Spring Boot · Node.js · TypeScript · Cybersecurity
+</p>
 
-I am a **Systems Analysis and Development** student at Uninter University and passionate about turning complex problems into efficient software solutions.
-
-I have a solid background in technical support and administrative management, which gave me a broad view of the importance of technology in business daily life. Currently, my main focus is web development with **PHP (Laravel)** and **Node.js Ecosystem**.
-
----
-
-### 🚀 About Me
-
-- 🎓 Currently studying **Systems Analysis and Development** (Uninter) [Graduation: 2026].
-- 🔭 Currently looking for my first opportunity as a **Junior Developer**.
-- 🌱 Deeply studying: **Laravel 11 & 12**, **Node.js (Next.js & NestJS)**, and **Docker**.
-- 💡 Previous experience with hardware support, public systems management, and graphic design.
+<p align="center">
+  <a href="https://www.carlosmagno-dev.com.br/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/carlosmagnosrz">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:magnoorty@gmail.com">Email</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## About
 
-**Languages & Frameworks:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Carlos-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Carlos-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Carlos-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Carlos-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
+Full Stack Developer with an end-to-end systemic view, from infrastructure (hardware and networks) to software engineering. My current focus is the **Java ecosystem** and **Cybersecurity**, designing secure and scalable solutions grounded in solid architectural patterns.
 
-**Databases & Tools:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Carlos-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Carlos-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Carlos-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Carlos-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</div>
+I also have broad experience with **Node.js/TypeScript** and deliver projects with **PHP/Laravel**, always aiming at solving real business problems with performance, security, and reliability.
 
-**Design:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
-</div>
+A distinctive part of my background is **GovTech**: deep knowledge of Brazilian public administration workflows, such as federal and state grant agreements (Transferegov, TransfereTO), procurement, and accountability reporting. I translate complex legislation and bureaucratic processes into software, automation, and data integrity.
 
 ---
 
-### 📫 Contact
+## What I Work With
 
-Feel free to reach out to me for projects, collaborations, or networking.
+- **Back-end:** RESTful APIs with Java/Spring Boot and Node.js/TypeScript, authentication and authorization with Spring Security, SOLID principles and Design Patterns
+- **Data:** relational modeling and query optimization with PostgreSQL and MySQL
+- **Front-end:** responsive interfaces with modern JavaScript/TypeScript and Tailwind CSS
+- **Infrastructure:** containerization with Docker, CI/CD pipelines, Linux environments, AWS and Azure
+- **Domain:** management platforms for the public sector, regulatory compliance, and process automation
 
-<div> 
-  <a href="https://www.linkedin.com/in/carlosmagnosrz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:magnoorty@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+---
+
+## Tech Stack
+
+**Languages & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,php,laravel,py&theme=dark" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" />
+</p>
+
+**Cloud, DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,linux,git,github,githubactions,postman,tailwind&theme=dark" />
+</p>
+
+**Methodologies:** Agile · Scrum · Kanban
+
+---
+
+## Education
+
+| Program | Institution | Status |
+|---|---|---|
+| Postgraduate in Software Architecture, Data Science and Cybersecurity | PUCPR | In progress (2027) |
+| Bachelor of Computer Science | Unigrande | In progress (2028) |
+| Technologist in Systems Analysis and Development | Uninter | Completed (2026) |
+
+---
+
+## Certifications
+
+- Java Developer Training, DIO (76h): Spring Boot, REST APIs, Spring Security, SOLID, Design Patterns
+- Laravel 11 & 12, Udemy (71.5h)
+- Node.js Training, DIO (30h): API and back-end development
+- Agile Management: Scrum and Kanban (24h)
+- Git & GitHub / Programming Logic (24h)
+- Technical English, Wizard (86h)
+
+---
+
+## Currently
+
+- Deepening knowledge in **software architecture** and **application security**
+- Building scalable back-end services with **Java and Spring Boot**
+- Studying **PLC & HMI programming** with TIA Portal (Siemens)
+
+---
+
+## Languages
+
+Portuguese (native) · English (technical reading) · Spanish (basic)
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlosmagnosrz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:magnoorty@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.carlosmagno-dev.com.br/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+</p>
