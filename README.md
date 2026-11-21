@@ -56,6 +56,19 @@ A distinctive part of my background is **GovTech**: deep knowledge of Brazilian 
 
 ---
 
+## GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=suarezzzs&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=6" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suarezzzs&layout=compact&langs_count=8&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&border_radius=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=suarezzzs&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border_radius=6" alt="GitHub Streak" />
+</p>
+
+---
+
 ## Education
 
 | Program | Institution | Status |
